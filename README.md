@@ -1,6 +1,7 @@
 # Grass VPS App
 
-Grass app that can be ran on VPS machines. It can detect all network interfaces automatically.
+Grass app that can be ran on VPS machines. It can detect all network interfaces automatically. 
+Original Repo https://github.com/alafon/grass-vps
 
 ## Before you start
 
